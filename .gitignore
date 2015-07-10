@@ -1,1 +1,3 @@
-/auden.crypt.pdf
+*.pdf
+*.crypt.txt
+*.ps
